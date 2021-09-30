@@ -16,9 +16,17 @@
 // console.log(isAdult(23));
 
 
-const logIsAdult = function(age){
-    const adult = age >= 18 ? 'adult' : 'not adult'; 
-    console.log(adult);
-}
+// const logIsAdult = function(age){
+//     const adult = age >= 18 ? 'adult' : 'not adult'; 
+//     console.log(adult);
+// }
 
-logIsAdult(23);
+// logIsAdult(23);
+
+
+
+// const inputData = function (){
+//     const data = prompt ('Enter data: ');
+//     console.log(data ? 'Thank you: '+ data: 'not thank you');
+// }
+// inputData();
